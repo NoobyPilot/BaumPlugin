@@ -1,0 +1,4 @@
+name: Baumfaeller
+version: 1.0.0
+main: com.BaumFaellerPlugin
+api-version: 1.13
